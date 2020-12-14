@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/seven-second-challenge/static/js/main.434b4821.chunk.js",
-    "main.js.map": "/seven-second-challenge/static/js/main.434b4821.chunk.js.map",
+    "main.js": "/seven-second-challenge/static/js/main.f944465e.chunk.js",
+    "main.js.map": "/seven-second-challenge/static/js/main.f944465e.chunk.js.map",
     "runtime-main.js": "/seven-second-challenge/static/js/runtime-main.4af86fb2.js",
     "runtime-main.js.map": "/seven-second-challenge/static/js/runtime-main.4af86fb2.js.map",
-    "static/js/2.e9431387.chunk.js": "/seven-second-challenge/static/js/2.e9431387.chunk.js",
-    "static/js/2.e9431387.chunk.js.map": "/seven-second-challenge/static/js/2.e9431387.chunk.js.map",
+    "static/js/2.0bfd26f3.chunk.js": "/seven-second-challenge/static/js/2.0bfd26f3.chunk.js",
+    "static/js/2.0bfd26f3.chunk.js.map": "/seven-second-challenge/static/js/2.0bfd26f3.chunk.js.map",
     "index.html": "/seven-second-challenge/index.html",
-    "static/js/2.e9431387.chunk.js.LICENSE.txt": "/seven-second-challenge/static/js/2.e9431387.chunk.js.LICENSE.txt"
+    "static/js/2.0bfd26f3.chunk.js.LICENSE.txt": "/seven-second-challenge/static/js/2.0bfd26f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4af86fb2.js",
-    "static/js/2.e9431387.chunk.js",
-    "static/js/main.434b4821.chunk.js"
+    "static/js/2.0bfd26f3.chunk.js",
+    "static/js/main.f944465e.chunk.js"
   ]
 }
